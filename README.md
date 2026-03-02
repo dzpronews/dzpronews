@@ -1,16 +1,22 @@
-## Hi there 👋
+<p align="center">
+  <img src="logo.png" width="350" alt="DZPRO NEWS Logo">
+</p>
 
-<!--
-**dzpronews/dzpronews** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">مرحباً بكم في DZPRO NEWS 🚀</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <b>البوابة التقنية الأولى للأخبار، الشروحات، وأحدث قوالب بلوجر الاحترافية.</b>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🌐 تابعنا وتواصل معنا:
+*   🌍 **الموقع الرسمي:** [dzpronews.com](https://www.dzpronews.com)
+*   🎥 **قناة اليوتيوب:** [اضغط هنا للمتابعة](https://www.youtube.com)
+*   📩 **للتواصل:** (ضع حساب فيسبوك هنا)
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app" alt="stats">
+</p>
